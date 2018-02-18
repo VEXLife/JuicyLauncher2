@@ -1,0 +1,13 @@
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\bin\Debug\JuicyLauncher2.exe
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\bin\Debug\JuicyLauncher2.pdb
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\obj\x86\Debug\JuicyLauncher2.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\obj\x86\Debug\JuicyLauncher2.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\obj\x86\Debug\JuicyLauncher2.exe
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\obj\x86\Debug\JuicyLauncher2.pdb
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\bin\Debug\BottleJson.dll
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\bin\Debug\BottleJson.pdb
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\obj\x86\Debug\JuicyLauncher2.Settings.resources
+C:\Documents and Settings\Administrator\桌面\JuicyLauncher2\JuicyLauncher2\obj\x86\Debug\JuicyLauncher2.ShowTask.resources
